@@ -12,7 +12,7 @@
     "upath": "*",
     "querystring": "*",
     "async": "*",
-    "fs-extra": "*",
+    "fs-extra": "5.0.0",
     "cheerio": "*"    
   },
   "repository" : { 
