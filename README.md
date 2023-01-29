@@ -1,4 +1,7 @@
 # medimage-addon-resize
+
+__WARNING: this project has now moved to https://src.atomjump.com/atomjump/medimage-addon-keywords.git__
+
 An add-on to MedImage Server that automatically resizes images after they appear on the PC
 
 
